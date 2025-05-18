@@ -1,0 +1,55 @@
+body {
+  background-color: #0c0e1b;
+  color: #e8e8e8;
+  font-family: 'Press Start 2P', cursive;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.download-btn {
+  background-color: #8be75d;
+  color: #000;
+  font-weight: bold;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 10px;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.description {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #a0e7ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.changelog li {
+  margin-bottom: 0.4rem;
+}
+
+.screenshots img {
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 2rem;
+}
